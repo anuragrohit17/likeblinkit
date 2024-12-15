@@ -29,7 +29,7 @@ const Footer = () => {
             <h2>GET IN TOUCH</h2>
             <ul>
                 <li>+91-9518118802</li>
-                <li>contact@blinkit.com</li>
+                <li>contact@mychef.com</li>
             </ul>
         </div>
       </div>
